@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="read">read</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="eandp">Email and Password required</string>
+    <string name="vui">Voice Username Input</string>
+    <string name="su">Sign Up</string>
+    <string name="lg">Login</string>
+    <string name="save">Save</string>
+    <string name="tom">type of meeting</string>
+    <string name="dat">date and time</string>
+    <string name="dur">duration</string>
+    <string name="att">attendees</string>
+    <string name="comm">comments</string>
+    <string name="back">Back</string>
+    <string name="del">Delete</string>
+    <string name="toastSS">Signup success</string>
+    <string name="toastLS">Login success</string>
+    <string name="toastUU">Username updated</string>
+    <string name="toastNI">No information</string>
+    <string name="dn">Done</string>
+    <string name="toastdel">Deleted</string>
+</resources>

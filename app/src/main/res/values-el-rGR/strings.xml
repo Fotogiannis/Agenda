@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ατζέντα</string>
+    <string name="read">διάβασε</string>
+    <string name="email">Ηλ. Διεύθ.</string>
+    <string name="password">Κωδικός</string>
+    <string name="username">Όνομα</string>
+    <string name="eandp">Ηλ. Διεύθ. και Κωδικός</string>
+    <string name="vui">Φωνητική Εισαγωγή Ονόματος</string>
+    <string name="su">Εγγραφή</string>
+    <string name="lg">Είσοδος</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="tom">είδος συνάντησης</string>
+    <string name="dat">ημερομηνία και ώρα</string>
+    <string name="dur">διάρκεια</string>
+    <string name="att">παρευρισκόμενοι</string>
+    <string name="comm">σχόλια</string>
+    <string name="back">Επιστροφή</string>
+    <string name="del">Διαγραφή</string>
+    <string name="toastSS">Επιτυχής εγγραφή</string>
+    <string name="toastLS">Επιτυχής είσοδος</string>
+    <string name="toastUU">Όνομα ανανεώθηκε</string>
+    <string name="toastNI">Δεν υπάρχουν πληροφορίες</string>
+    <string name="dn">Αποθηκεύτηκε</string>
+    <string name="toastdel">Διαγράφηκε</string>
+</resources>
